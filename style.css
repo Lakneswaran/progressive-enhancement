@@ -19,3 +19,132 @@ p.AlanWatts{
     height:80px;
     margin-left:160px;
 }
+
+table{
+
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 400px;
+}
+
+td{
+    background-color: turquoise;
+    text-decoration-style: double;
+    padding-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+th{
+background-color:teal;
+text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h6{
+    text-align: center;
+}
+
+details > summary {
+    padding: 4px;
+    width: 200px;
+    background-color: #140606;
+    color:white;  
+    border: none;
+    box-shadow: 1px 1px 2px #cfcdcd;
+    cursor: pointer;
+    
+  }
+
+  details > p {
+    background-color:white;
+    color:black;
+    padding: 4px;
+    margin-bottom: 100px;
+    box-shadow: 1px 1px 2px #b4b3b3;
+    max-width: 500px;
+  } 
+
+  footer{
+    margin-top: 100px;
+    text-align: right;
+    background-color: white;
+    max-width: 1500px;
+    padding-left: 800px;
+    
+
+  }
+
+  .bottomright{
+    text-align: right;
+    float:right;
+}
+
+body{
+background-color:cadetblue;
+
+}
+
+section{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    position: relative;
+    
+    
+  }
+
+
+  #figureimage{
+    width: 200px;
+    height:150px;
+    float:right;
+
+  }
+
+  h1{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+
+  }
+
+
+#header{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2{
+
+    text-align: center;
+    font-family: sans-serif;
+    padding: 50px;
+    margin-top:50px;
+}
+
+.begin{
+    font-size: 50px;
+    text-align: left;
+    color:red;
+}
+
+.middle{
+    font-size: 25px;
+    text-align: center;
+    color:blue;
+}
+
+.end{
+    font-size: 50px;
+    text-align: right;
+    color:red;
+}
+
+em{
+
+    color:red;
+}
+
+
