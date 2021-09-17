@@ -1,5 +1,6 @@
 .chinesefarmer{
     text-align: right;
+    margin-right: 30px;
     
 }
 
@@ -16,5 +17,5 @@ p.AlanWatts{
     float:left;
     width:200px;
     height:80px;
-    margin-left:190px;
+    margin-left:160px;
 }
